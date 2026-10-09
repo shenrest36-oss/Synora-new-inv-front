@@ -1,7 +1,9 @@
 node_modules/
 dist/
 .env
-.env.*
-!.env.example
+/.idea/
+/.vscode/
 npm-debug.log*
-.DS_Store
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
